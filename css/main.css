@@ -1,0 +1,122 @@
+body{
+	background-image: url("../img/wall1.jpg");
+	b/*ackground-size: cover;
+    background-repeat: no-repeat;*/
+}
+header{
+	background-image: url("../img/hotel.jpg");
+	background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 100%;
+}
+.sumate
+{
+	margin-top: 15%;
+	margin-left: 40%;
+	font-family: "Calibri";
+	font-size: 110%;
+	text-align: center;
+	color: #fff;
+	background-color: #83d0c9;
+	width: 30%;
+	padding: 5%;
+	border-radius: 7px;
+	display: inline-block;
+	
+}
+a{
+	margin: 2%;
+	text-decoration: none;
+	font-family: "Calibri";
+	font-size: 140%;
+	color: #fff;
+}
+a:hover {
+    background-color: #cb2c31;
+    cursor:default;
+}    
+nav{
+	margin-left: 60%;
+	margin-top: -2.5%;
+	display: inline-block;
+}
+.text-center{
+	text-align: center;
+	margin-top: 12%;
+	font-family: "Calibri";
+	font-size: 300%;
+	color: #fff;
+    text-shadow: -2px -2px 1px 	#007777, 2px 2px 1px #007777, -2px 2px 1px #007777, 2px -2px 1px #007777;
+}
+.budapest{
+	margin-left: 10%;
+	margin-top: 5%;
+	background-color: #54b2a9;
+	padding: 2% 4% 2%;
+	border-radius: 7%;
+
+}
+.rushmore{
+	margin-left: 15%;
+	margin-top: 7%;
+	background-color: #54b2a9;
+	padding: 2% 4% 3%;
+	border-radius: 7%;
+}
+.aquatic{
+	margin-left: 10%;
+	margin-top: 5%;
+	background-color: #54b2a9;
+	padding: 2% 8.2% 2%;
+	border-radius: 7%;
+}
+.royal{
+	margin-left: 11%;
+	margin-top: 11%;
+	margin-bottom: 8%;
+	background-color: #54b2a9;
+	padding: 2% 3% 3%;
+	border-radius: 7%;
+}
+h3, h4{
+	font-family: "Calibri";
+	color: #fff;
+	font-size: 150%;
+	text-align: center;
+	text-decoration: underline;
+}
+p{
+	font-family: "Calibri";
+	color: #fff;
+	margin-top: 4%;
+	margin-bottom: 10%;
+}
+.boton{
+	text-align: center;
+	background-color: 	#e69598;
+	margin-left: 35%;
+	padding: 2%;
+    border-radius: 5px;
+}
+.footer{
+	background-color: #54b2a9;
+}
+{
+	font-family: "Calibri";
+	color: #fff;
+}
+h5{
+	font-family: "Calibri";
+	color: #fff;
+	padding: 15%;
+}
+.laboratoria{
+	margin-left: 10%;
+}
+.gmail{
+	margin-left: -8.5%;
+}
+.tel{
+	margin-left: -5.5%;
+}
