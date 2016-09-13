@@ -38,7 +38,7 @@ a:hover {
 }    
 nav{
 	margin-left: 60%;
-	margin-top: -2.5%;
+	margin-top: -5%;
 	display: inline-block;
 }
 .text-center{
@@ -92,10 +92,31 @@ p{
 	margin-top: 4%;
 	margin-bottom: 10%;
 }
-.boton{
+.boton1{
 	text-align: center;
 	background-color: 	#e69598;
 	margin-left: 35%;
+	padding: 2%;
+    border-radius: 5px;
+}
+.boton2{
+    text-align: center;
+	background-color: 	#e69598;
+	margin-left: 37%;
+	padding: 2%;
+    border-radius: 5px;   
+}
+.boton3{
+    text-align: center;
+	background-color: 	#e69598;
+	margin-left: 24%;
+	padding: 2%;
+    border-radius: 5px;
+}
+.boton4{
+	text-align: center;
+	background-color: 	#e69598;
+	margin-left: 37%;
 	padding: 2%;
     border-radius: 5px;
 }
